@@ -9,3 +9,5 @@ Update :----------------------------------------
 V1.1 -----> Added Save and Delete Button
 
 V1.2 -----> Now You Can Copy from Preview, also restructed the UI
+V1.3 -----> 1. Added Italic(_text_) and Title (*text) 
+            2. Now you can Copy from Preview 
