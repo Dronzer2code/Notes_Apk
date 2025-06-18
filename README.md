@@ -2,7 +2,7 @@
 Simple Notes takeing apk
 ------------------------------------------------
 Going To Improve It With more Feartures With 
-Learning Progress
+Learning Progress and Coeming with updates
 
 Update :----------------------------------------
 
